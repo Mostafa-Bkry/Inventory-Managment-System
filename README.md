@@ -1,7 +1,7 @@
 # Demo 
 https://youtu.be/R8bcwZLvb5g
 
-#Behance
+# Behance
 https://www.behance.net/gallery/213132501/Koala-Inventory-Management-System
 
 # Koala - Inventory Management System
